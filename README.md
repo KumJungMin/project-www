@@ -134,5 +134,7 @@ $ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo
    docker-compose down
    ```
 
+---
+## 프론트 기획 및 개발(금정민)
 
-If you have a feature request, please create a new issue. And also, pull requests are always welcome🙏
+<center><img src="/git_image/front.png"></center>
