@@ -135,6 +135,6 @@ $ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo
    ```
 
 ---
-## 프론트 기획 및 개발(금정민)
+## 프론트 기획 및 개발(KumJungMin)
 
 <center><img src="/git_image/front.png"></center>
