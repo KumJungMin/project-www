@@ -5,9 +5,7 @@
 
 ## Team members
 - 정휘선, 이은미, 전새희, 이동호, 금정민, 최다올
-- 백엔드 : 정휘선, 전새희, 이동호
-- CTO : 이은미, 최다올
-- 포론트엔드 : 금정민
+
 
 ## Architecture
 ![](./static/images/architecture.png)
@@ -95,7 +93,4 @@ $ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo
 ```
 
 ---
-## 6. 화면 구성
-- 프론트엔드 담당 : KumJungMin
-- 상세한 이미지흐름을 보고 싶다면 아래 그림을 클릭하세요
-<a href="https://xd.adobe.com/view/f43e6832-6832-4ecf-7f04-b67f648a3be1-820f/?fullscreen&hints=off"><img src="/git_image/front.png"></a>
+
